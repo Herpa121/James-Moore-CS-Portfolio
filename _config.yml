@@ -24,13 +24,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   My ePortfolio concerning my time at SNHU
 #baseurl: ""
 #url: ""
-baseurl: "/James-Moore-CS-Portfolio/"
+baseurl: "/James-Moore-CS-Portfolio"
 url: "https://herpa121.github.io"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-pages
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
