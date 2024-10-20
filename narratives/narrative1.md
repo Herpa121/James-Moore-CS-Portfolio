@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /narratives/narrative1/
 ---
 ## Artifact Overview
 The artifact chosen to showcase my development in software design and engineering, algorithms and data structures, and databases all converge within my first project in CS 320: Software Test Automation (Q1 2024). The goal was to establish validation and automated testing for a client’s specification on an in-memory appointment service. To provide a more robust solution, I specialized the program to fit a consultation appointment service incorporating database to manage larger data sets and ensuring long-term storage.
