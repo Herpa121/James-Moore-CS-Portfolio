@@ -17,4 +17,4 @@ Through refactoring the project to accommodate a database instead of in-memory s
 In retrospect, I’ve come to appreciate what aspects of database integration become important to focus on in terms of security. Through this project, I have yet to tackle comprehensive audit logging and associated security testing beyond integration testing. Despite this, my current implementation underscores a robust foundation that isn’t monolithic or inflexible while incorporating many security features. 
 When I first set out to showcase my development in databases, I initially had a far too ambitious plan of incorporating a hybrid system of in-memory data synchronized with a database. However, I had to humble myself to realize that certain systems, like consultant appointments, benefit more from having a sole source of truth for enforced security and data integrity. This opened my eyes to recognizing the importance of simplicity in analyzing trade-offs between flexibility and reliability – especially when it comes to the security of application and user data. 
 
-<a href="/">Back to Home</a>
+<a href="/https://herpa121.github.io">Back to Home</a>

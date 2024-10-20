@@ -18,5 +18,5 @@ In terms of directly attributed course outcomes among algorithms and data struct
 When I first set out to showcase my development in algorithms and data structures, I initially had a much more ambitious plan of incorporating a hybrid system of in-memory data synchronized with a database. However, I had to humble myself to realize that certain systems, like consultant appointments, benefit more from having a sole source of truth for enforced security and data integrity. This opened my eyes to recognizing the importance of simplicity in analyzing trade-offs between flexibility and reliability – especially when it comes to the security of the application and user data.
 
 
-<a href="/">Back to Home</a>
+<a href="/https://herpa121.github.io">Back to Home</a>
 

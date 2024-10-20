@@ -11,4 +11,4 @@ In terms of directly attributed outcomes among software design and engineering, 
 ## Reflection – Growth in Security and Management
 In retrospect, I’ve grown keener on understanding how to implement robust security coverage through the refactoring of a small project into a more sophisticated one. Using Maven for dependency management in line with clear separation of concerns helped me recognize the usefulness of isolating layers of interaction and securing possible vulnerabilities without adding complexity to the program. I’ve also become more proficient in providing robust unit testing through Mockito, allowing for mock objects to be configured for quick and robust isolation of functionality and control over dependencies. Overall, I feel much more comfortable with my growth in understanding the software development lifecycle in practice due to this artifact’s growth. 
 
-<a href="/">Back to Home</a>
+<a href="/https://herpa121.github.io">Back to Home</a>
