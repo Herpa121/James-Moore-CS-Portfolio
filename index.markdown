@@ -36,11 +36,8 @@ I’ve been exposed to several different implementations of database integration
 
 
 ## Explore My Capstone Artifact:
+- [Consultant Appointment System Repository](https://gist.github.com/Herpa121/639f6f651ebde68f93f5897a9fcc8b29)
 - [Software Engineering and Design](narratives/narrative1/)
 - [Algorithms and Data Structures](narratives/narrative2/)
 - [Databases](narratives/narrative3/)
-
-<a href="{{ site.baseurl }}/narratives/narrative1.md">Narrative 1</a>
-[Narrative 1]({{ site.baseurl }}/narratives/narrative1.md)
-
 ---

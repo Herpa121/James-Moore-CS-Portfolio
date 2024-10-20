@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /narratives/narrative3/
 ---
 
 ## Artifact Overview
