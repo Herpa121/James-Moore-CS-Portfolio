@@ -40,4 +40,7 @@ I’ve been exposed to several different implementations of database integration
 - [Algorithms and Data Structures](narratives/narrative2/)
 - [Databases](narratives/narrative3/)
 
+<a href="{{ site.baseurl }}/narratives/narrative1.md">Narrative 1</a>
+[Narrative 1]({{ site.baseurl }}/narratives/narrative1.md)
+
 ---
